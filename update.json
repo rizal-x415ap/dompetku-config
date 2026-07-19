@@ -3,5 +3,5 @@
   "updateUrl": "https://dompetku.apk.com/",
   "forceUpdate": false,
   "releaseNotes": "Aplikasi kini mendukung fitur X dan Y! Segera perbarui.",
-  "forceUpdate": true
+  "forceUpdate": false
 }
