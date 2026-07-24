@@ -1,7 +1,6 @@
 {
-  "latestVersion": "2.2.1",
+  "latestVersion": "3.0.0",
   "updateUrl": "https://dompetku.apk.com/",
   "forceUpdate": false,
-  "releaseNotes": "Aplikasi kini mendukung fitur X dan Y! Segera perbarui.",
-  "forceUpdate": false
+  "releaseNotes": "Aplikasi kini mendukung fitur hutang dan piutang! Segera perbarui."
 }
